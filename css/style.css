@@ -1,0 +1,42 @@
+body {
+    padding-top: 50px;
+}
+
+.em-text {
+    color: #1caa98 !important
+}
+
+.jumbotron {
+    background: url(../img/site_showcase_bg.jpg) no-repeat top center;
+    color: white;
+    height: 500px;
+    overflow: none;
+}
+
+.jumbotron h1 {
+    margin-top: 50px;
+}
+
+.jumbotron p1 {
+    margin-bottom: 40px;
+}
+
+.jumbotron img.app-btn {
+    border: solid 1px red;
+    width: 40%;
+    margin-right: 30px;
+}
+
+.jumbotron img.showcase-img {
+    width: 75%;
+}
+
+img.demo {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+section {
+    padding: 40px 0;
+}
